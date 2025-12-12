@@ -1,3 +1,5 @@
 Kenzie Christ Yanto 230712298
 Nicholas Abed Nego Sinay 230712291
 Dinarradja Raditya Dharma 230712321
+
+link streamlit : https://projek-uas-mlkeras-4kp42ofzkkw4cwcvaugbja.streamlit.app/
