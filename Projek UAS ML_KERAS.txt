@@ -3,3 +3,4 @@ Nicholas Abed Nego Sinay 230712291
 Dinarradja Raditya Dharma 230712321
 
 link streamlit : https://projek-uas-mlkeras-4kp42ofzkkw4cwcvaugbja.streamlit.app/
+link github : https://github.com/Yntzie/Projek-UAS-ML_KERAS
